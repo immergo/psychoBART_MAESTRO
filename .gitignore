@@ -1,0 +1,4 @@
+*.csv
+data/000_BART_2016_lip_11_1142.log
+*.psydat
+*.log
